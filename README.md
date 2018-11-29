@@ -1,2 +1,2 @@
 # Node.js
-Just a repo for gathering some small exercises and projects using Node.js
+Just a repo for small exercises and projects using Node.js
